@@ -1,3 +1,3 @@
 <?php
-print "Afnan :D" . PHP_VERSION . "\n";
+print "AFNAN Redhat Champion ;D";
 ?>
